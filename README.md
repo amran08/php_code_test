@@ -3,7 +3,7 @@
 Here I have tried to solve  three problems.
 1. Printing depth of array keys in an associative array 
 2. Printing depth of array keys in an associative array where nested objects can exist
-3. Built a binary tree,determined lowest common ancestor between two nodes
+3. Built a binary tree,determined lowest common ancestor (lca) between two nodes
 
 
 ## Getting Started
