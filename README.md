@@ -8,11 +8,10 @@ Here I have tried to solve  three problems.
 
 ## Getting Started
 
- git clone https://github.com/amran08/php_code_test.git
- cd php_code_test
- composer install
-
- php app.php
+ 1. git clone https://github.com/amran08/php_code_test.git
+ 2. cd php_code_test
+ 3. composer install
+ 4. php app.php
  
 
 ### Prerequisites
