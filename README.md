@@ -1,9 +1,9 @@
 # PHP code test
 
 Here I have tried to solve  three problems.
-1. Printing depth of array keys in an associative array 
-2. Printing depth of array keys in an associative array where nested objects can exist
-3. Built a binary tree,determined least common ancestor (lca) between two nodes
+1. Printing depth of  keys of an associative array 
+2. Printing depth of  keys of an associative array where nested objects can exist
+3. Finding  ```least common ancestor (lca)``` between two nodes of a binary tree
 
 
 ## Getting Started
@@ -18,5 +18,16 @@ Here I have tried to solve  three problems.
 
 composer and PHP 
 
-## Running the tests
+## Memory and Runtime for Problem 3 
 
+ Memory ->   
+      Worst: ``O(n)``
+      Avg :   ``O(log n)``
+
+Runtime -> 
+      Worst: O(\sqr n)
+      Avg:   O(log n \2 )
+ 
+
+
+## Running the tests
