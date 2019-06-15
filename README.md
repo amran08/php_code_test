@@ -25,8 +25,8 @@ composer and PHP
       Avg :   ``O(log n)``
 
 Runtime -> 
-      Worst: O(\sqr n)
-      Avg:   O(log n \2 )
+      Worst: ``O(n^2)``
+      Avg:   ``O( (log n)^2 )``
  
 
 
