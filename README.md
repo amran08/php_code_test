@@ -21,12 +21,12 @@ composer and PHP
 ## Memory and Runtime for Problem 3 
 
  ##### Memory   
-      Worst: ``O(n)``
-      Avg :   ``O(log n)``
+      Worst:  O(n)
+      Avg :   O(log n)
 
 ##### Runtime
-      Worst: ``O(n^2)``
-      Avg:   ``O( (log n)^2 )``
+      Worst: O(n^2)
+      Avg:   O((log n)^2)
  
 
 
